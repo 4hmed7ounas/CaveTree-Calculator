@@ -92,3 +92,9 @@ body {
 .bg-lightgrey {
     background-color: rgb(161, 148, 148);
 }
+
+@media (max-width: 480px) {
+    .input {
+        font-size: 20px;
+    }
+}
